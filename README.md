@@ -1,7 +1,3 @@
-Below is a professional, ready-to-use **README.md** for your digit recognition project.
-
----
-
 # Handwritten Digit Recognition using PyTorch and Pygame
 
 ## Overview
