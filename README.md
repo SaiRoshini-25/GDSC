@@ -94,12 +94,3 @@ The drawn digit is processed as follows:
 8. Convert to PyTorch tensor
 
 This ensures compatibility with the MNIST-trained model.
-
-
-
-
-
-
-
-
-If you want, I can also write a **short README**, a **college project style report**, or a **viva explanation version** of this documentation.
