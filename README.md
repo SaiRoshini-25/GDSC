@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a **handwritten digit recognition system** using a fully connected Artificial Neural Network (ANN) trained on the **MNIST dataset** with **PyTorch**.
+This project implements a **handwritten digit recognition system** using a fully connected Convolutional Neural Network (CNN) trained on the **MNIST dataset** with **PyTorch**.
 After training, the model is integrated with a **Pygame drawing interface**, allowing users to draw digits on the screen and receive real-time predictions from the trained model.
 
 ---
